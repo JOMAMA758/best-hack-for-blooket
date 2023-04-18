@@ -1,8 +1,8 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Blooket Cheat Extension",
-    "description": "Made by OneMinsraft2#5394 | Blooket extension based off: https://github.com/glixzzy/blooket-hack along with more cheats",
-    "author": "OneMinesraft2#5394",
+    "description": "Made by JOMAMA758",
+    "author": "JOMAMA758",
     "version": "6.9.0",
     "permissions": [
         "tabs",
